@@ -1,0 +1,10 @@
+.labelNumero {
+    -fx-background-color: rgb(252, 0, 0);
+    -fx-background-radius: 10;
+}
+
+.casilla {
+    -fx-background-color: rgba(65, 65, 65, 0.78);
+    -fx-background-radius: 10;
+}
+
